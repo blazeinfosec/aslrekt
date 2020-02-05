@@ -19,5 +19,6 @@ target setuid execve, and later leak them through the special setuid binary meth
 The issue is based on CVE-2019-11190 and modern Linux versions are still vulnerable.
 
 by Federico Bento (@uid1000)
+
 Copyright 2016-2020, Blaze Information Security
 
