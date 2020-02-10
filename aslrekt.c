@@ -3,11 +3,6 @@
  * ASLREKT is a proof of concept for generic local ASLR bypass in multiple
  * Linux kernel versions.
  *
- * The issue is based on CVE-2019-11190 and modern Linux versions are
- * still vulnerable.
- *
- * by F. Bento (@uid1000)
- *
  */
 
 #include <stdio.h>
