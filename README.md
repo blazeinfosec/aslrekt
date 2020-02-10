@@ -1,4 +1,7 @@
 # aslrekt
+
+![ASLR](https://github.com/blazeinfosec/aslrekt/blob/master/ASLR%20B.jpg)
+
 ASLREKT is a proof of concept for generic local ASLR bypass in multiple Linux kernel versions.
 
 ASLREKT requires a setuid binary that reads from stdin and writes to stdout/stderr (or to a readable file) the 
