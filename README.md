@@ -19,8 +19,6 @@ running under another uid, such as root.
 It's also possible to leak addresses via /proc/pid/syscall, it isn't world-readable, but we can open() it before a
 target setuid execve, and later leak them through the special setuid binary method.
 
-The issue is based on CVE-2019-11190 and modern Linux versions are still vulnerable.
-
-by F. Bento (@uid1000)
+Modern Linux versions are still vulnerable.
 
 Copyright 2016-2020, Blaze Information Security
