@@ -6,7 +6,7 @@
  * The issue is based on CVE-2019-11190 and modern Linux versions are
  * still vulnerable.
  *
- * by Federico Bento (@uid1000)
+ * by F. Bento (@uid1000)
  *
  */
 
